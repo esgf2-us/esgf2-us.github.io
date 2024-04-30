@@ -1,0 +1,6 @@
+name: esgf2-us-dev
+channels:
+  - conda-forge
+dependencies:
+  - mystmd
+  - nodejs>=20,<21
