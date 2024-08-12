@@ -19,6 +19,6 @@ Check out the [ESGF2-US Overview](project-overview.md).
 
 :::{card}
 :header: I need examples 💻
-Check out our [ESGF Computational Cookbook](https://esgf2-us.github.io/esgf-cookbook)
+Check out our [ESGF Computational Cookbook](https://projectpythia.github.io/esgf-cookbook)
 :::
 ::::
