@@ -3,7 +3,7 @@
 [![Made with MyST](https://img.shields.io/badge/made%20with-myst-orange)](https://myst.tools)
 
 
-Welcome to our the Earth System Grid Federation 2 US (ESGF2-US) Project!
+Welcome to our the Earth System Grid Federation 2 - US (ESGF2-US) Project!
 
 ::::{grid} 1 1 2 3
 
