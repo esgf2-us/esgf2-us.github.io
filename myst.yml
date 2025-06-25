@@ -14,7 +14,13 @@ site:
   options:
      favicon: images/esgf2-us.png
      logo: images/ESGF2-US_logo_transparent_word-crop.png
-  nav: []
+  nav:
+    - title: Data Access
+      children:
+        - title: Metagrid (Web-based)
+          url: https://aims2.llnl.gov/
+        - title: Intake-ESGF (Programmatic)
+          url: https://intake-esgf.readthedocs.io/en/latest/
   actions:
     - title: Learn More
       url: https://mystmd.org/guide
