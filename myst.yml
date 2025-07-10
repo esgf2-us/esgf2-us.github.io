@@ -13,7 +13,6 @@ project:
     - file: README.md
     - title: Data Users
       children:
-      - file: ESGF-Installer.md
       - file: data-users.md       
       - file: metagrid-guide.md 
       - file: Intake-ESGF.md
@@ -27,6 +26,7 @@ project:
     - title: ESGF Node Operators
       children:
         - file: Node-Installation.md
+        - file: ESGF-Installer.md
         - file: kubernetes.md
         - file: replicator.md
         - file: ESGF-Docker.md
