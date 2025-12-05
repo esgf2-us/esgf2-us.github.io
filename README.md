@@ -1,25 +1,59 @@
-# ESGF2-US
+# ESGF2 – Earth System Grid Federation 2.0
 
+Welcome to **ESGF2**, documentation repository!
 
-[![Made with MyST](https://img.shields.io/badge/made%20with-myst-orange)](https://myst.tools)
+This repository hosts the **documentation and tools** for accessing ESGF data, including Metagrid, Intake-ESGF, Cookbooks, ESG Pull, and developer resources.
 
+---
 
-Welcome to our the Earth System Grid Federation 2 - US (ESGF2-US) Project!
+## Documentation
 
-::::{grid} 1 1 2 3
+The site is organized into the following sections:
 
-:::{card}
-:header: I am looking for data 🔎
-Check out [metagrid](https://aims2.llnl.gov/search), our search interface for finding ESGF Data!
-:::
+- **Project Overview**  
+  General information about ESGF2-US and its goals.
 
-:::{card}
-:header: What is ESGF? 🌐
-Check out the [ESGF2-US Overview](project-overview.md).
-:::
+- **Data Users**  
+  Guides for researchers accessing ESGF data:
 
-:::{card}
-:header: I need examples 💻
-Check out our [ESGF Computational Cookbook](https://projectpythia.github.io/esgf-cookbook)
-:::
-::::
+  - Metagrid
+  - Intake-ESGF
+  - Cookbooks
+  - ESG Pull
+
+- **Data Publishers**  
+  Tools and resources for publishing datasets.
+
+- **ESGF Node Operators**  
+  Installation, configuration, and maintenance guides for ESGF nodes.
+
+- **ESGF Developers**  
+  Development tools, APIs, and internal developer resources.
+
+- **Contributing**  
+  Guidelines for contributing to this repository.
+
+---
+
+## 🛠 Local Development
+
+To preview the site locally:
+
+```bash
+# Clone this repository
+git clone https://github.com/esgf2-us/esgf2-us.github.io.git
+cd esgf2-us.github.io
+
+# Install dependencies
+
+# pip installation
+pip install mystmd
+
+# Or npm installation
+npm install -g mystmd
+
+# Start local development server
+myst start
+```
+
+To learn how to contribute, visit our [Contributors](/CONTRIBUTING.md) Guide.
